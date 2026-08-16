@@ -15,7 +15,7 @@ let introduce = myName + myLocation;
 
 let introduceText = `${myName}는 ${myLocation}에 살고 있습니다.`;
 
-// 템플릿 리터럴 문법
+// 템플릿 리터럴 문법!
 
 //3. Boolean Type
 let isSwitchOn = true;
